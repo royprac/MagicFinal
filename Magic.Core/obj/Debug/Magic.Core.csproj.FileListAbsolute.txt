@@ -1,0 +1,192 @@
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\bin\Debug\Magic.Core.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\bin\Debug\Magic.Core.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\bin\Debug\Cirrious.CrossCore.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\bin\Debug\Cirrious.MvvmCross.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\bin\Debug\Cirrious.MvvmCross.Plugins.PictureChooser.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\bin\Debug\Newtonsoft.Json.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\bin\Debug\Microsoft.WindowsAzure.Mobile.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\bin\Debug\Newtonsoft.Json.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\obj\Debug\Magic.Core.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\obj\Debug\Magic.Core.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\obj\Debug\Magic.Core.csprojResolveAssemblyReference.cache
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\bin\Debug\Magic.Core.dll.config
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\bin\Debug\System.Net.Http.Extensions.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\bin\Debug\System.Net.Http.Primitives.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\bin\Debug\System.Net.Http.Extensions.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\bin\Debug\System.Net.Http.Primitives.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\Magic.Core\obj\Debug\Magic.Core.csproj.App.config
+C:\MAGIC 04 DICIEMBRE 2014\Magic.Core\obj\Debug\Magic.Core.csproj.App.config
+C:\MAGIC 04 DICIEMBRE 2014\Magic.Core\obj\Debug\Magic.Core.csprojResolveAssemblyReference.cache
+C:\MAGIC 04 DICIEMBRE 2014\Magic.Core\obj\Debug\Magic.Core.dll
+C:\MAGIC 04 DICIEMBRE 2014\Magic.Core\bin\Debug\Magic.Core.dll.config
+C:\MAGIC 04 DICIEMBRE 2014\Magic.Core\bin\Debug\Magic.Core.dll
+C:\MAGIC 04 DICIEMBRE 2014\Magic.Core\bin\Debug\Magic.Core.pdb
+C:\MAGIC 04 DICIEMBRE 2014\Magic.Core\bin\Debug\Cirrious.CrossCore.dll
+C:\MAGIC 04 DICIEMBRE 2014\Magic.Core\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.dll
+C:\MAGIC 04 DICIEMBRE 2014\Magic.Core\bin\Debug\Cirrious.MvvmCross.dll
+C:\MAGIC 04 DICIEMBRE 2014\Magic.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\MAGIC 04 DICIEMBRE 2014\Magic.Core\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+C:\MAGIC 04 DICIEMBRE 2014\Magic.Core\bin\Debug\Cirrious.MvvmCross.Plugins.PictureChooser.dll
+C:\MAGIC 04 DICIEMBRE 2014\Magic.Core\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\MAGIC 04 DICIEMBRE 2014\Magic.Core\bin\Debug\Newtonsoft.Json.dll
+C:\MAGIC 04 DICIEMBRE 2014\Magic.Core\bin\Debug\System.Net.Http.Extensions.dll
+C:\MAGIC 04 DICIEMBRE 2014\Magic.Core\bin\Debug\System.Net.Http.Primitives.dll
+C:\MAGIC 04 DICIEMBRE 2014\Magic.Core\bin\Debug\Microsoft.WindowsAzure.Mobile.pdb
+C:\MAGIC 04 DICIEMBRE 2014\Magic.Core\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\MAGIC 04 DICIEMBRE 2014\Magic.Core\bin\Debug\Newtonsoft.Json.xml
+C:\MAGIC 04 DICIEMBRE 2014\Magic.Core\bin\Debug\System.Net.Http.Extensions.xml
+C:\MAGIC 04 DICIEMBRE 2014\Magic.Core\bin\Debug\System.Net.Http.Primitives.xml
+C:\MAGIC 04 DICIEMBRE 2014\Magic.Core\obj\Debug\Magic.Core.pdb
+D:\MAGIC11 DICIEMBRE 2014\Magic.Core\obj\Debug\Magic.Core.csproj.App.config
+D:\MAGIC11 DICIEMBRE 2014\Magic.Core\obj\Debug\Magic.Core.csprojResolveAssemblyReference.cache
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\obj\Debug\Magic.Core.csproj.App.config
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\obj\Debug\Magic.Core.csprojResolveAssemblyReference.cache
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\Magic.Core.dll.config
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\Magic.Core.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\Magic.Core.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\Cirrious.CrossCore.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\Cirrious.MvvmCross.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\Cirrious.MvvmCross.Plugins.PictureChooser.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\Newtonsoft.Json.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\System.Net.Http.Extensions.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\System.Net.Http.Primitives.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\System.Net.Http.Extensions.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\System.Net.Http.Primitives.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\obj\Debug\Magic.Core.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\obj\Debug\Magic.Core.pdb
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\Magic.Core.dll.config
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\Magic.Core.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\Magic.Core.pdb
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\Cirrious.MvvmCross.Plugins.PictureChooser.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\obj\Debug\Magic.Core.csproj.App.config
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\obj\Debug\Magic.Core.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\obj\Debug\Magic.Core.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\Magic.Core\obj\Debug\Magic.Core.pdb
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\Magic.Core\bin\Debug\Magic.Core.dll.config
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\Magic.Core\bin\Debug\Magic.Core.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\Magic.Core\bin\Debug\Magic.Core.pdb
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\Magic.Core\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\Magic.Core\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\Magic.Core\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\Magic.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\Magic.Core\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\Magic.Core\bin\Debug\Cirrious.MvvmCross.Plugins.PictureChooser.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\Magic.Core\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\Magic.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\Magic.Core\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\Magic.Core\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\Magic.Core\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\Magic.Core\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\Magic.Core\obj\Debug\Magic.Core.csproj.App.config
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\Magic.Core\obj\Debug\Magic.Core.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\Magic.Core\obj\Debug\Magic.Core.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\Magic.Core\obj\Debug\Magic.Core.pdb
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\Magic.Core\bin\Debug\Cirrious.MvvmCross.Droid.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\Magic.Core\bin\Debug\Mono.Android.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\Magic.Core\bin\Debug\Mono.Android.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\Magic.Core\obj\Debug\Magic.Core.csproj.App.config
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\Magic.Core\obj\Debug\Magic.Core.csprojResolveAssemblyReference.cache
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\Magic.Core\obj\Debug\Magic.Core.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\Magic.Core\obj\Debug\Magic.Core.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\Magic.Core\bin\Debug\Magic.Core.dll.config
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\Magic.Core\bin\Debug\Magic.Core.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\Magic.Core\bin\Debug\Magic.Core.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\Magic.Core\bin\Debug\Cirrious.CrossCore.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\Magic.Core\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\Magic.Core\bin\Debug\Cirrious.MvvmCross.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\Magic.Core\bin\Debug\Cirrious.MvvmCross.Droid.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\Magic.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\Magic.Core\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\Magic.Core\bin\Debug\Cirrious.MvvmCross.Plugins.PictureChooser.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\Magic.Core\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\Magic.Core\bin\Debug\Mono.Android.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\Magic.Core\bin\Debug\Newtonsoft.Json.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\Magic.Core\bin\Debug\System.Net.Http.Extensions.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\Magic.Core\bin\Debug\System.Net.Http.Primitives.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\Magic.Core\bin\Debug\System.Net.Http.Extensions.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\Magic.Core\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\Magic.Core\bin\Debug\Magic.Core.dll.config
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\Magic.Core\bin\Debug\Magic.Core.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\Magic.Core\bin\Debug\Magic.Core.pdb
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\Magic.Core\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\Magic.Core\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\Magic.Core\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\Magic.Core\bin\Debug\Cirrious.MvvmCross.Droid.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\Magic.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\Magic.Core\bin\Debug\Cirrious.MvvmCross.Plugins.PictureChooser.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\Magic.Core\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\Magic.Core\bin\Debug\Mono.Android.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\Magic.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\Magic.Core\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\Magic.Core\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\Magic.Core\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\Magic.Core\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\Magic.Core\obj\Debug\Magic.Core.csproj.App.config
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\Magic.Core\obj\Debug\Magic.Core.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\Magic.Core\obj\Debug\Magic.Core.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\Magic.Core\obj\Debug\Magic.Core.pdb
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\Magic.Core\bin\Debug\Cirrious.MvvmCross.Plugins.DownloadCache.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\Magic.Core\bin\Debug\Magic.Core.dll.config
+C:\Users\Ricardo\Desktop\PushMagic - copia\Magic.Core\bin\Debug\Magic.Core.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\Magic.Core\bin\Debug\Magic.Core.pdb
+C:\Users\Ricardo\Desktop\PushMagic - copia\Magic.Core\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\Magic.Core\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\Magic.Core\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\Magic.Core\bin\Debug\Cirrious.MvvmCross.Droid.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\Magic.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\Magic.Core\bin\Debug\Cirrious.MvvmCross.Plugins.DownloadCache.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\Magic.Core\bin\Debug\Cirrious.MvvmCross.Plugins.PictureChooser.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\Magic.Core\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\Magic.Core\bin\Debug\Mono.Android.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\Magic.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\Magic.Core\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\Magic.Core\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\Magic.Core\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\Magic.Core\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\Magic.Core\obj\Debug\Magic.Core.csproj.App.config
+C:\Users\Ricardo\Desktop\PushMagic - copia\Magic.Core\obj\Debug\Magic.Core.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\PushMagic - copia\Magic.Core\obj\Debug\Magic.Core.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\Magic.Core\obj\Debug\Magic.Core.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\Magic.Core\bin\Debug\Magic.Core.dll.config
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\Magic.Core\bin\Debug\Magic.Core.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\Magic.Core\bin\Debug\Magic.Core.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\Magic.Core\bin\Debug\Cirrious.CrossCore.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\Magic.Core\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\Magic.Core\bin\Debug\Cirrious.MvvmCross.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\Magic.Core\bin\Debug\Cirrious.MvvmCross.Droid.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\Magic.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\Magic.Core\bin\Debug\Cirrious.MvvmCross.Plugins.DownloadCache.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\Magic.Core\bin\Debug\Cirrious.MvvmCross.Plugins.PictureChooser.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\Magic.Core\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\Magic.Core\bin\Debug\Mono.Android.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\Magic.Core\bin\Debug\Newtonsoft.Json.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\Magic.Core\bin\Debug\System.Net.Http.Extensions.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\Magic.Core\bin\Debug\System.Net.Http.Primitives.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\Magic.Core\bin\Debug\System.Net.Http.Extensions.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\Magic.Core\bin\Debug\System.Net.Http.Primitives.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\Magic.Core\obj\Debug\Magic.Core.csproj.App.config
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\Magic.Core\obj\Debug\Magic.Core.csprojResolveAssemblyReference.cache
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\Magic.Core\obj\Debug\Magic.Core.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\Magic.Core\obj\Debug\Magic.Core.pdb

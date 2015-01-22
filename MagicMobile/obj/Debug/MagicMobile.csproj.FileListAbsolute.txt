@@ -1,0 +1,1248 @@
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\bin\Debug\MagicMobile.dll
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\bin\Debug\MagicMobile.pdb
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\bin\Debug\MagicMobile.dll.mdb
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\bin\Debug\MagicMobile.MagicMobile.apk
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\bin\Debug\MagicMobile.MagicMobile-Signed.apk
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\bin\Debug\Xamarin.Android.Support.v13.dll
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\MagicMobile.dll
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\MagicMobile.pdb
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\android\bin\MagicMobile.MagicMobile.apk
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\layout\main.xml
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\values\strings.xml
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\drawable\icon.png
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\drawable\magic1.jpg
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\drawable\magic3.png
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\drawable\magic4.png
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\layout\catalogo.xml
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\drawable\face.png
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\drawable\tutorial1.png
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\drawable\categ1.png
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\drawable\categ2.png
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\drawable\categ3.png
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\drawable\categ4.png
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\drawable\minigatito.png
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\layout\disenhosporcatalogo.xml
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\layout\disenhovistamayor.xml
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\drawable\lista1.png
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\drawable\lista2.png
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\drawable\lista3.png
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\drawable\ra.png
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\drawable\unha11.png
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\drawable\unha12.png
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\drawable\unha13.png
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\drawable\ojo.png
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\layout\realidadaumentada.xml
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\layout\disenhosporcatalogogrid.xml
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\layout\awesome.xml
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\R.cs.flag
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\uploadflags.txt
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\MagicMobile.csprojResolveAssemblyReference.cache
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\drawable\tutorial2.png
+C:\Users\Melissa\Documents\Projects\Magic1\MagicMobile\obj\Debug\res\drawable\tutorial3.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\MagicMobile.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\MagicMobile.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\MagicMobile.dll.mdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\MagicMobile.MagicMobile.apk
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\MagicMobile.MagicMobile-Signed.apk
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\Xamarin.Android.Support.v13.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\MagicMobile.csprojResolveAssemblyReference.cache
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\MagicMobile.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\MagicMobile.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\android\bin\MagicMobile.MagicMobile.apk
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\layout\main.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\values\strings.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\icon.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\magic1.jpg
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\magic3.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\magic4.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\layout\catalogo.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\face.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\tutorial1.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\categ1.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\categ2.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\categ3.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\categ4.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\minigatito.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\layout\disenhosporcatalogo.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\layout\disenhovistamayor.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\lista1.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\lista2.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\lista3.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\ra.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\unha11.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\unha12.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\unha13.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\ojo.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\layout\realidadaumentada.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\layout\disenhosporcatalogogrid.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\layout\awesome.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\tutorial2.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\tutorial3.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\R.cs.flag
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC FINAL\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\uploadflags.txt
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\MagicMobile.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\MagicMobile.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\MagicMobile.dll.mdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\MagicMobile.MagicMobile.apk
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\MagicMobile.MagicMobile-Signed.apk
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\Cirrious.CrossCore.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\Cirrious.CrossCore.Droid.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Binding.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Binding.Droid.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Droid.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Localization.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\Magic.Core.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\System.Net.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\System.Windows.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\System.Xml.Serialization.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\Xamarin.Android.Support.v13.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\Magic.Core.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\Magic.Core.dll.mdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\MagicMobile.csprojResolveAssemblyReference.cache
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\MagicMobile.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\MagicMobile.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\android\bin\MagicMobile.MagicMobile.apk
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\layout\splashscreen.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\layout\firstview.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\layout\main.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\values\strings.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\icon.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\magic1.jpg
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\magic3.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\magic4.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\layout\catalogo.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\face.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\tutorial1.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\categ1.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\categ2.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\categ3.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\categ4.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\minigatito.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\layout\disenhosporcatalogo.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\layout\disenhovistamayor.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\lista1.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\lista2.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\lista3.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\ra.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\unha11.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\unha12.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\unha13.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\ojo.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\layout\realidadaumentada.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\layout\disenhosporcatalogogrid.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\layout\awesome.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\tutorial2.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\tutorial3.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\values\splashstyle.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\values\mvxbindingattributes.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\splash.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\R.cs.flag
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\obj\Debug\uploadflags.txt
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\MagicMobile.dll.config
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.Droid.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\Newtonsoft.Json.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\Newtonsoft.Json.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\System.Net.Http.Extensions.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\System.Net.Http.Primitives.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\System.Net.Http.Extensions.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic FINAL 29 NOVIEMBRE 2014\MagicMobile\bin\Debug\System.Net.Http.Primitives.xml
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\MagicMobile.dll.config
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\MagicMobile.dll
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\MagicMobile.pdb
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\MagicMobile.dll.mdb
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\MagicMobile.MagicMobile.apk
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\MagicMobile.MagicMobile-Signed.apk
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\Cirrious.CrossCore.dll
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\Cirrious.CrossCore.Droid.dll
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Binding.dll
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Binding.Droid.dll
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.dll
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.Droid.dll
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.dll
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Droid.dll
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\Magic.Core.dll
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\System.Net.dll
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\System.Net.Http.Extensions.dll
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\System.Net.Http.Primitives.dll
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\System.Windows.dll
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\System.Xml.Serialization.dll
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\Xamarin.Android.Support.v13.dll
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\Newtonsoft.Json.dll
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\Magic.Core.pdb
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\Magic.Core.dll.mdb
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\System.Net.Http.Extensions.xml
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\System.Net.Http.Primitives.xml
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\Newtonsoft.Json.xml
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.pdb
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\MagicMobile.csprojResolveAssemblyReference.cache
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\MagicMobile.dll
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\MagicMobile.pdb
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\android\bin\MagicMobile.MagicMobile.apk
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\layout\splashscreen.xml
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\layout\firstview.xml
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\layout\main.xml
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\values\strings.xml
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\icon.png
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\magic1.jpg
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\magic3.png
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\magic4.png
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\layout\catalogo.xml
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\face.png
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\tutorial1.png
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\categ1.png
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\categ2.png
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\categ3.png
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\categ4.png
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\minigatito.png
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\layout\disenhosporcatalogo.xml
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\layout\disenhovistamayor.xml
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\lista1.png
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\lista2.png
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\lista3.png
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\ra.png
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\unha11.png
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\unha12.png
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\unha13.png
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\ojo.png
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\layout\realidadaumentada.xml
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\layout\disenhosporcatalogogrid.xml
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\layout\awesome.xml
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\tutorial2.png
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\tutorial3.png
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\values\splashstyle.xml
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\values\mvxbindingattributes.xml
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\splash.png
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\R.cs.flag
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\uploadflags.txt
+C:\MAGIC 04 DICIEMBRE 2014\MagicMobile\obj\Debug\res\drawable\unia.png
+D:\MAGIC11 DICIEMBRE 2014\MagicMobile\obj\Debug\MagicMobile.csprojResolveAssemblyReference.cache
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\MagicMobile.dll.config
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\MagicMobile.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\MagicMobile.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\MagicMobile.dll.mdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\MagicMobile.MagicMobile.apk
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\MagicMobile.MagicMobile-Signed.apk
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Cirrious.CrossCore.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Cirrious.CrossCore.Droid.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Binding.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Binding.Droid.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.Droid.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Droid.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Localization.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Magic.Core.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Newtonsoft.Json.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\System.Net.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\System.Net.Http.Extensions.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\System.Net.Http.Primitives.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\System.Windows.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\System.Xml.Serialization.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Xamarin.Android.Support.v13.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Magic.Core.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Magic.Core.dll.mdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Newtonsoft.Json.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\System.Net.Http.Extensions.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\System.Net.Http.Primitives.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\MagicMobile.csprojResolveAssemblyReference.cache
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\MagicMobile.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\MagicMobile.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\android\bin\MagicMobile.MagicMobile.apk
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\layout\splashscreen.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\layout\firstview.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\layout\main.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\values\strings.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\icon.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\magic1.jpg
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\magic3.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\magic4.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\layout\catalogo.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\face.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\tutorial1.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\categ1.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\categ2.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\categ3.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\categ4.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\minigatito.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\layout\disenhosporcatalogo.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\layout\disenhovistamayor.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\lista1.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\lista2.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\lista3.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\ra.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\unha11.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\unha12.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\unha13.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\ojo.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\layout\realidadaumentada.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\layout\disenhosporcatalogogrid.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\layout\awesome.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\tutorial2.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\tutorial3.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\values\splashstyle.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\values\mvxbindingattributes.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\splash.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\unia.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\R.cs.flag
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\uploadflags.txt
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.dll.mdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll.mdb
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\MagicMobile.dll.config
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\MagicMobile.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\MagicMobile.pdb
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\MagicMobile.dll.mdb
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\MagicMobile.MagicMobile.apk
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\MagicMobile.MagicMobile-Signed.apk
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Cirrious.CrossCore.Droid.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Binding.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Binding.Droid.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.Droid.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Droid.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Magic.Core.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\System.Net.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\System.Windows.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\System.Xml.Serialization.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Xamarin.Android.Support.v13.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Magic.Core.pdb
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Magic.Core.dll.mdb
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.pdb
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.dll.mdb
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.pdb
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll.mdb
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\MagicMobile.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\MagicMobile.dll
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\MagicMobile.pdb
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\android\bin\MagicMobile.MagicMobile.apk
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\layout\splashscreen.xml
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\layout\firstview.xml
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\layout\main.xml
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\values\strings.xml
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\icon.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\magic1.jpg
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\magic3.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\magic4.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\layout\catalogo.xml
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\face.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\tutorial1.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\categ1.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\categ2.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\categ3.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\categ4.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\minigatito.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\layout\disenhosporcatalogo.xml
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\layout\disenhovistamayor.xml
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\lista1.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\lista2.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\lista3.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\ra.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\unha11.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\unha12.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\unha13.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\ojo.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\layout\realidadaumentada.xml
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\layout\disenhosporcatalogogrid.xml
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\layout\awesome.xml
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\tutorial2.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\tutorial3.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\values\splashstyle.xml
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\values\mvxbindingattributes.xml
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\splash.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\unia.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\R.cs.flag
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\uploadflags.txt
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\layout\capturamano.xml
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\marco.png
+C:\Users\Ricardo\Desktop\MAGIC 19 DICIEMBRE MANO2014\MagicMobile\obj\Debug\res\drawable\unia_png.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\MagicMobile.dll.config
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\MagicMobile.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\MagicMobile.pdb
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\MagicMobile.dll.mdb
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\MagicMobile.MagicMobile.apk
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\MagicMobile.MagicMobile-Signed.apk
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Cirrious.CrossCore.Droid.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Cirrious.MvvmCross.Binding.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Cirrious.MvvmCross.Binding.Droid.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.Droid.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Cirrious.MvvmCross.Droid.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Magic.Core.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\System.Net.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\System.Windows.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\System.Xml.Serialization.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Xamarin.Android.Support.v13.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Magic.Core.pdb
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Magic.Core.dll.mdb
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.pdb
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.dll.mdb
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.pdb
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll.mdb
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\MagicMobile.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\MagicMobile.dll
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\MagicMobile.pdb
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\android\bin\MagicMobile.MagicMobile.apk
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\layout\splashscreen.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\layout\firstview.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\layout\capturamano.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\layout\realidadaumentada.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\values\strings.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\icon.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\magic1.jpg
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\magic3.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\magic4.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\layout\catalogo.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\face.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\tutorial1.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\categ1.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\categ2.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\categ3.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\categ4.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\minigatito.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\layout\disenhosporcatalogo.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\layout\disenhovistamayor.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\lista1.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\lista2.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\lista3.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\ra.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unha11.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unha12.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unha13.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\ojo.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\layout\disenhosporcatalogogrid.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\layout\awesome.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\tutorial2.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\tutorial3.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\values\splashstyle.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\values\mvxbindingattributes.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\splash.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\marco.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_png.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\R.cs.flag
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\uploadflags.txt
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\categ5.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\categ6.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\layout\gridx.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\layout\grid1.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_1_01.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_1_02.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_1_03.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_1_04.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_1_05.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_1_06.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_1_07.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_1_08.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_1_09.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_1_10.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_1_11.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_1_12.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\layout\grid2.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\layout\grid6.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\layout\grid5.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\layout\grid4.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\layout\grid3.xml
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_2_01.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_2_02.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_2_03.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_2_04.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_2_05.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_2_06.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_2_07.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_2_08.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_2_09.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_2_10.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_2_11.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_2_12.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_3_12.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_3_01.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_3_02.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_3_03.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_3_04.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_3_05.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_3_06.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_3_07.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_3_08.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_3_09.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_3_10.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_3_11.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_4_12.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_4_01.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_4_02.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_4_03.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_4_04.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_4_05.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_4_06.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_4_07.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_4_08.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_4_09.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_4_10.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_4_11.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_5_03.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_5_04.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_5_05.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_5_06.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_5_07.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_5_08.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_5_09.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_5_10.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_5_11.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_5_12.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_5_01.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_5_02.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_6_12.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_6_01.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_6_02.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_6_03.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_6_04.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_6_05.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_6_06.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_6_07.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_6_08.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_6_09.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_6_10.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\drawable\unia_6_11.png
+C:\Users\Ricardo\Desktop\Realidad Aumentada v0\MagicMobile\obj\Debug\res\layout\mainview.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\MagicMobile.csprojResolveAssemblyReference.cache
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\MagicMobile.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\MagicMobile.dll.config
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\MagicMobile.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\MagicMobile.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\MagicMobile.dll.mdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\MagicMobile.MagicMobile.apk
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\MagicMobile.MagicMobile-Signed.apk
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Cirrious.CrossCore.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Cirrious.CrossCore.Droid.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Cirrious.MvvmCross.Binding.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Cirrious.MvvmCross.Binding.Droid.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.Droid.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Cirrious.MvvmCross.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Cirrious.MvvmCross.Droid.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Cirrious.MvvmCross.Localization.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Magic.Core.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Newtonsoft.Json.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\System.Net.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\System.Net.Http.Extensions.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\System.Net.Http.Primitives.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\System.Windows.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\System.Xml.Serialization.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Xamarin.Android.Support.v13.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Xamarin.Auth.Android.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Magic.Core.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Magic.Core.dll.mdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.dll.mdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll.mdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\Newtonsoft.Json.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\System.Net.Http.Extensions.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\bin\Debug\System.Net.Http.Primitives.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\MagicMobile.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\android\bin\MagicMobile.MagicMobile.apk
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\layout\splashscreen.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\layout\firstview.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\layout\capturamano.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\layout\realidadaumentada.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\layout\gridx.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\layout\grid1.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\layout\grid2.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\layout\grid6.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\layout\grid5.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\layout\grid4.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\layout\grid3.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\layout\homescreen.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\layout\catalogofinal.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\layout\mainview.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\values\strings.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\icon.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\magic1.jpg
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\magic3.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\magic4.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\layout\catalogo.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\face.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\tutorial1.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\categ2.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\categ3.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\categ4.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\minigatito.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\layout\disenhosporcatalogo.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\layout\disenhovistamayor.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\lista1.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\lista2.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\lista3.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\ra.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unha11.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unha12.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unha13.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\ojo.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\layout\disenhosporcatalogogrid.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\layout\awesome.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\tutorial2.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\tutorial3.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\values\splashstyle.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\values\mvxbindingattributes.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\splash.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\marco.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_png.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\categ5.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\categ6.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_1_01.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_1_02.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_1_03.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_1_04.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_1_05.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_1_06.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_1_07.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_1_08.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_1_09.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_1_10.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_1_11.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_1_12.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\categ1.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_2_01.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_2_02.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_2_03.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_2_04.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_2_05.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_2_06.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_2_07.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_2_08.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_2_09.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_2_10.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_2_11.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_2_12.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_3_12.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_3_01.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_3_02.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_3_03.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_3_04.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_3_05.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_3_06.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_3_07.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_3_08.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_3_09.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_3_10.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_3_11.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_4_12.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_4_01.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_4_02.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_4_03.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_4_04.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_4_05.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_4_06.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_4_07.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_4_08.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_4_09.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_4_10.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_4_11.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_5_03.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_5_04.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_5_05.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_5_06.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_5_07.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_5_08.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_5_09.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_5_10.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_5_11.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_5_12.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_5_01.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_5_02.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_6_12.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_6_01.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_6_02.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_6_03.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_6_04.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_6_05.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_6_06.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_6_07.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_6_08.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_6_09.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_6_10.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\res\drawable\unia_6_11.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\R.cs.flag
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Makumba v1\MagicMobile\obj\Debug\uploadflags.txt
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\MagicMobile.dll.config
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\MagicMobile.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\MagicMobile.pdb
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\MagicMobile.dll.mdb
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Cirrious.CrossCore.Droid.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Cirrious.MvvmCross.Binding.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Cirrious.MvvmCross.Binding.Droid.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.Droid.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Cirrious.MvvmCross.Droid.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Magic.Core.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\System.Net.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\System.Windows.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\System.Xml.Serialization.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Xamarin.Android.Support.v13.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Xamarin.Auth.Android.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Magic.Core.pdb
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Magic.Core.dll.mdb
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.pdb
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.dll.mdb
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.pdb
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll.mdb
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\MagicMobile.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\MagicMobile.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\MagicMobile.pdb
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\layout\splashscreen.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\layout\firstview.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\layout\capturamano.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\layout\realidadaumentada.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\layout\gridx.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\layout\grid1.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\layout\grid2.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\layout\grid6.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\layout\grid5.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\layout\grid4.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\layout\grid3.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\layout\homescreen.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\layout\catalogofinal.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\layout\mainview.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\values\strings.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\icon.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\magic1.jpg
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\magic3.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\magic4.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\layout\catalogo.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\face.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\tutorial1.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\categ2.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\categ3.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\categ4.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\minigatito.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\layout\disenhosporcatalogo.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\layout\disenhovistamayor.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\lista1.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\lista2.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\lista3.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\ra.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unha11.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unha12.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unha13.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\ojo.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\layout\disenhosporcatalogogrid.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\layout\awesome.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\tutorial2.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\tutorial3.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\values\splashstyle.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\values\mvxbindingattributes.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\splash.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\marco.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_png.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\categ5.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\categ6.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_1_01.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_1_02.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_1_03.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_1_04.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_1_05.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_1_06.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_1_07.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_1_08.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_1_09.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_1_10.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_1_11.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_1_12.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\categ1.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_2_01.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_2_02.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_2_03.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_2_04.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_2_05.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_2_06.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_2_07.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_2_08.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_2_09.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_2_10.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_2_11.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_2_12.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_3_12.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_3_01.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_3_02.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_3_03.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_3_04.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_3_05.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_3_06.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_3_07.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_3_08.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_3_09.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_3_10.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_3_11.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_4_12.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_4_01.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_4_02.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_4_03.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_4_04.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_4_05.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_4_06.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_4_07.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_4_08.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_4_09.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_4_10.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_4_11.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_5_03.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_5_04.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_5_05.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_5_06.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_5_07.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_5_08.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_5_09.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_5_10.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_5_11.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_5_12.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_5_01.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_5_02.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_6_12.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_6_01.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_6_02.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_6_03.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_6_04.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_6_05.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_6_06.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_6_07.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_6_08.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_6_09.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_6_10.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\drawable\unia_6_11.png
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\R.cs.flag
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\uploadflags.txt
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Cirrious.MvvmCross.Plugins.DownloadCache.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Cirrious.MvvmCross.Plugins.DownloadCache.Droid.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\layout\uniasview.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\Cirrious.MvvmCross.Plugins.File.Droid.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\layout\item_unias.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\GCM.Client.dll
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\res\layout\mensaje.xml
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\com.magic.apk
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\bin\Debug\com.magic-Signed.apk
+C:\Users\Ricardo\Desktop\MAGIC 08 enero 2015\MagicMobile\obj\Debug\android\bin\com.magic.apk
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\MagicMobile.dll.config
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\MagicMobile.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\MagicMobile.pdb
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\MagicMobile.dll.mdb
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\com.magic.apk
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\com.magic-Signed.apk
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Cirrious.CrossCore.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Cirrious.CrossCore.Droid.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Cirrious.MvvmCross.Binding.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Cirrious.MvvmCross.Binding.Droid.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.Droid.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Cirrious.MvvmCross.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Cirrious.MvvmCross.Droid.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Cirrious.MvvmCross.Plugins.DownloadCache.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Cirrious.MvvmCross.Plugins.DownloadCache.Droid.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Cirrious.MvvmCross.Plugins.File.Droid.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\GCM.Client.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Magic.Core.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\System.Net.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\System.Windows.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\System.Xml.Serialization.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Xamarin.Android.Support.v13.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Xamarin.Auth.Android.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Magic.Core.pdb
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Magic.Core.dll.mdb
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.pdb
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.dll.mdb
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.pdb
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll.mdb
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\MagicMobile.csprojResolveAssemblyReference.cache
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\MagicMobile.dll
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\MagicMobile.pdb
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\android\bin\com.magic.apk
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\layout\splashscreen.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\layout\firstview.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\layout\capturamano.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\layout\realidadaumentada.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\layout\gridx.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\layout\grid1.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\layout\grid2.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\layout\grid6.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\layout\grid5.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\layout\grid4.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\layout\grid3.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\layout\homescreen.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\layout\catalogofinal.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\layout\uniasview.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\layout\item_unias.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\layout\mensaje.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\layout\mainview.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\values\strings.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\icon.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\magic1.jpg
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\magic3.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\magic4.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\layout\catalogo.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\face.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\tutorial1.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\categ2.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\categ3.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\categ4.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\minigatito.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\layout\disenhosporcatalogo.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\lista1.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\lista2.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\lista3.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\ra.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unha11.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unha12.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unha13.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\ojo.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\layout\disenhosporcatalogogrid.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\layout\awesome.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\tutorial2.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\tutorial3.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\values\splashstyle.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\values\mvxbindingattributes.xml
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\splash.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\marco.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_png.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\categ5.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\categ6.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_1_01.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_1_02.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_1_03.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_1_04.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_1_05.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_1_06.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_1_07.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_1_08.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_1_09.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_1_10.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_1_11.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_1_12.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\categ1.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_2_01.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_2_02.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_2_03.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_2_04.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_2_05.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_2_06.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_2_07.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_2_08.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_2_09.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_2_10.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_2_11.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_2_12.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_3_12.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_3_01.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_3_02.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_3_03.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_3_04.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_3_05.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_3_06.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_3_07.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_3_08.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_3_09.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_3_10.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_3_11.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_4_12.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_4_01.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_4_02.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_4_03.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_4_04.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_4_05.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_4_06.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_4_07.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_4_08.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_4_09.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_4_10.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_4_11.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_5_03.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_5_04.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_5_05.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_5_06.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_5_07.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_5_08.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_5_09.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_5_10.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_5_11.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_5_12.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_5_01.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_5_02.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_6_12.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_6_01.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_6_02.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_6_03.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_6_04.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_6_05.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_6_06.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_6_07.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_6_08.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_6_09.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_6_10.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\drawable\unia_6_11.png
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\R.cs.flag
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\uploadflags.txt
+C:\Users\Ricardo\Desktop\PushMagic - copia\MagicMobile\obj\Debug\res\layout\disenhoview.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\MagicMobile.dll.config
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\MagicMobile.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\MagicMobile.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\MagicMobile.dll.mdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\com.magic.apk
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\com.magic-Signed.apk
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Cirrious.CrossCore.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Cirrious.CrossCore.Droid.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Cirrious.MvvmCross.Binding.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Cirrious.MvvmCross.Binding.Droid.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Cirrious.MvvmCross.Community.Plugins.Sqlite.Droid.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Cirrious.MvvmCross.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Cirrious.MvvmCross.Droid.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Cirrious.MvvmCross.Localization.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Cirrious.MvvmCross.Plugins.DownloadCache.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Cirrious.MvvmCross.Plugins.DownloadCache.Droid.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Cirrious.MvvmCross.Plugins.File.Droid.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\GCM.Client.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Magic.Core.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Newtonsoft.Json.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\System.Net.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\System.Net.Http.Extensions.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\System.Net.Http.Primitives.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\System.Windows.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\System.Xml.Serialization.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Xamarin.Android.Support.v13.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Xamarin.Auth.Android.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Magic.Core.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Magic.Core.dll.mdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.dll.mdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll.mdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\Newtonsoft.Json.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\System.Net.Http.Extensions.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\bin\Debug\System.Net.Http.Primitives.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\MagicMobile.csprojResolveAssemblyReference.cache
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\MagicMobile.dll
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\MagicMobile.pdb
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\android\bin\com.magic.apk
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\splashscreen.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\firstview.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\capturamano.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\realidadaumentada.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\gridx.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\grid1.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\grid2.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\grid6.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\grid5.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\grid4.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\grid3.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\homescreen.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\catalogofinal.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\uniasview.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\item_unias.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\mensaje.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\mainview.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\values\strings.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\icon.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\magic1.jpg
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\magic3.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\magic4.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\catalogo.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\face.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\tutorial1.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\categ2.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\categ3.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\categ4.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\minigatito.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\disenhosporcatalogo.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\disenhoview.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\lista1.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\lista2.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\lista3.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\ra.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unha11.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unha12.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unha13.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\ojo.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\disenhosporcatalogogrid.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\awesome.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\tutorial2.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\tutorial3.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\values\splashstyle.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\values\mvxbindingattributes.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\splash.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\marco.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_png.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\categ5.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\categ6.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_1_01.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_1_02.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_1_03.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_1_04.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_1_05.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_1_06.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_1_07.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_1_08.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_1_09.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_1_10.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_1_11.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_1_12.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\categ1.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_2_01.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_2_02.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_2_03.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_2_04.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_2_05.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_2_06.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_2_07.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_2_08.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_2_09.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_2_10.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_2_11.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_2_12.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_3_12.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_3_01.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_3_02.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_3_03.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_3_04.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_3_05.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_3_06.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_3_07.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_3_08.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_3_09.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_3_10.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_3_11.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_4_12.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_4_01.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_4_02.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_4_03.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_4_04.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_4_05.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_4_06.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_4_07.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_4_08.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_4_09.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_4_10.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_4_11.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_5_03.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_5_04.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_5_05.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_5_06.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_5_07.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_5_08.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_5_09.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_5_10.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_5_11.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_5_12.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_5_01.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_5_02.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_6_12.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_6_01.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_6_02.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_6_03.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_6_04.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_6_05.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_6_06.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_6_07.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_6_08.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_6_09.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_6_10.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\unia_6_11.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\R.cs.flag
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\uploadflags.txt
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\pushmensaje.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\uniafondo.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\layout\modoavatar.xml
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\mano_blanca.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\mano_morena.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\mano_roja.png
+E:\MAESTRIA UNSA CONCYTEC\2 SEMESTRE\PROGRAMACION MOVIL\PROTOTIPO\Magic Ox\MagicMobile\obj\Debug\res\drawable\mano_colorada.png

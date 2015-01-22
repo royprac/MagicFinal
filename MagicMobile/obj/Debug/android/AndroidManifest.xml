@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" android:installLocation="auto" package="com.magic">
+  <uses-sdk android:targetSdkVersion="18" android:minSdkVersion="14" />
+  <application android:label="Magic" android:icon="@drawable/icon" android:name="mono.android.app.Application" android:debuggable="true">
+    <activity android:icon="@drawable/icon" android:label="Cuadre la mano al contorno" android:screenOrientation="portrait" android:name="magicmobile.activities.CapturaManoActivity" />
+    <activity android:label="ModoAvatar" android:name="magicmobile.activities.ModoAvatar" />
+    <activity android:label="MensajeActivity" android:name="magicmobile.pushnotification.MensajeActivity" />
+    <receiver android:permission="com.google.android.c2dm.permission.SEND" android:name="magicmobile.pushnotification.MyBroadcastReceiver">
+      <intent-filter>
+        <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+        <category android:name="com.magic" />
+      </intent-filter>
+      <intent-filter>
+        <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+        <category android:name="com.magic" />
+      </intent-filter>
+      <intent-filter>
+        <action android:name="com.google.android.gcm.intent.RETRY" />
+        <category android:name="com.magic" />
+      </intent-filter>
+    </receiver>
+    <service android:name="magicmobile.pushnotification.GcmService" />
+    <activity android:label="RealidadAumentadaActivity" android:screenOrientation="portrait" android:name="magicmobile.activities.RealidadAumentadaActivity" />
+    <activity android:icon="@drawable/icon" android:label="Catalogo" android:screenOrientation="portrait" android:name="magicmobile.views.UniasView" />
+    <activity android:icon="@drawable/icon" android:label="Magic" android:screenOrientation="portrait" android:name="magicmobile.MainView">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:icon="@drawable/icon" android:label="Catalogo" android:screenOrientation="portrait" android:name="magicmobile.CatalogoActivity" />
+    <activity android:icon="@drawable/icon" android:label="MagicMobile" android:screenOrientation="portrait" android:name="magicmobile.DisenhosPorCatalogoActivity" />
+    <activity android:icon="@drawable/icon" android:label="Catalogo" android:screenOrientation="portrait" android:name="magicmobile.views.DisehoView" />
+    <activity android:icon="@drawable/icon" android:label="MagicMobile" android:name="magicmobile.DisenhosPorCatalogoActivityGrid" />
+    <activity android:icon="@drawable/icon" android:label="MagicMobile" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Splash" android:name="magicmobile.SplashScreen" />
+    <activity android:label="ViewPagerImages" android:name="magicmobile.ViewPagerImages" />
+    <activity android:label="View for FirstViewModel" android:name="magicmobile.views.FirstView" />
+    <activity android:label="Web Authenticator" android:name="xamarin.auth._mobileservices.FormAuthenticatorActivity" />
+    <activity android:label="Web Authenticator" android:name="xamarin.auth._mobileservices.WebAuthenticatorActivity" />
+    <activity android:label="Web Authenticator" android:name="xamarin.auth.FormAuthenticatorActivity" />
+    <activity android:label="Web Authenticator" android:name="xamarin.auth.WebAuthenticatorActivity" />
+    <activity android:label="Share" android:name="xamarin.social.ShareActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.magic.mono.MonoRuntimeProvider.__mono_init__" />
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.magic" />
+      </intent-filter>
+    </receiver>
+  </application>
+  <uses-permission android:name="android.permission.CAMERA" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <permission android:name="com.magic.permission.C2D_MESSAGE" />
+  <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+  <uses-permission android:name="android.permission.WAKE_LOCK" />
+  <uses-permission android:name="com.magic.permission.C2D_MESSAGE" />
+  <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+</manifest>

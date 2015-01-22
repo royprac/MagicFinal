@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffc750c4"
+    android:visibility="visible">
+    <ImageButton
+        android:id="@+id/myButtonCateg1"
+        android:layout_width="fill_parent"
+        android:layout_weight="1"
+        android:layout_height="0dp"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/categ1" />
+    <ImageButton
+        android:id="@+id/myButtonCateg2"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/categ2" />
+    <ImageButton
+        android:id="@+id/myButtonCateg3"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/categ3" />
+    <ImageButton
+        android:id="@+id/myButtonCateg4"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/categ4" />
+    <ImageButton
+        android:id="@+id/myButtonCateg5"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/categ5" />
+    <ImageButton
+        android:id="@+id/myButtonCateg6"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/categ6" />
+</LinearLayout>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:local="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffc750c4"
+    android:visibility="visible">
+<!--    <Gallery
+        android:id="@+id/gallery"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="6" />  -->
+    <LinearLayout
+        android:orientation="vertical"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:id="@+id/layout1"
+        android:layout_weight="8" />
+    <Button
+        android:text="INGRESAR"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.5"
+        android:id="@+id/button1"
+        android:background="#9f349d"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp" />
+<!--  local:MvxBind="Click InsertarHistorialCommand"    -->
+    <ImageButton
+        android:id="@+id/myButtonFacebook"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/face"
+        android:layout_weight="1"
+        android:background="#ffc750c4"
+        local:MvxBind="Click InsertarHistorialCommand" />
+    <ImageView
+        android:src="@drawable/magic4"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3.3"
+        android:id="@+id/imageView1" />
+</LinearLayout>
